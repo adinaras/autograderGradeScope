@@ -1,0 +1,7 @@
+{
+	"compiletest": 0,
+	"test1": 5,
+	"test2": 5,
+	"test3": 5,
+	"testclean": 0
+}

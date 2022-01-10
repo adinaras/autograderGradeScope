@@ -52,10 +52,10 @@ You can test the autograder by uploading your solution.
 
 
 ## Acknowlegments: 
-Aditya Narasimhan
-Gregory Madra
-Sanjana Mudduluru
-Sudhindra Gopal Krishna
-Monique Shotande
+- Aditya Narasimhan
+- Gregory Madra
+- Sanjana Mudduluru
+- Sudhindra Gopal Krishna
+- Monique Shotande
 
 Copyright © 2022 adinaras
