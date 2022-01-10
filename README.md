@@ -48,8 +48,7 @@
  - This might take a couple of mins
 
 You can test the autograder by uploading your solution.
-
-
+You can debug each student's submission by using the debug via ssh button in each student's submission page
 
 ## Acknowlegments: 
 - Aditya Narasimhan
@@ -57,5 +56,9 @@ You can test the autograder by uploading your solution.
 - Sanjana Mudduluru
 - Sudhindra Gopal Krishna
 - Monique Shotande
+
+
+## Reference:
+https://bats-core.readthedocs.io/en/stable/tutorial.html
 
 Copyright © 2022 adinaras
